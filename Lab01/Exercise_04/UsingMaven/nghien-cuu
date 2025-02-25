@@ -1,0 +1,780 @@
+
+<!DOCTYPE html>
+<html lang="vi" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="h-100">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150069677-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-150069677-1", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
+<meta name="geo.placename" content="19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, TP. Hồ Chí Minh" />
+<meta name="geo.region" content="HCMC-VN" />
+<meta http-equiv="content-language" content="&quot;vi-vn&quot;" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Tôn Đức Thắng, TDTU, đại học công lập, tuyển sinh đại học, tuyển sinh sau đại học, đại học nghiên cứu, đại học tự chủ, top 100 đại học trẻ, Top 500 đại học tốt nhất thế giới, khoa học-công nghệ" />
+<meta property="og:image" content="https://tdtu.edu.vn" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/www/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="vi" href="https://tdtu.edu.vn/nghien-cuu" />
+<link rel="canonical" href="https://tdtu.edu.vn/nghien-cuu" />
+<link rel="shortlink" href="https://tdtu.edu.vn/node/4861" />
+
+    <title>Nghiên cứu | Đại học Tôn Đức Thắng</title>
+    <link rel="stylesheet" media="all" href="/sites/www/files/css/css_0KCZjVL7_bD08FJZ5HcCijFhc25lhUVc-FYjCgr82To.css" />
+<link rel="stylesheet" media="all" href="/sites/www/files/css/css_K8Ze1orFnnvvfaRGFjV7imDCfs_FaTM4P4sX4x7OGtc.css" />
+
+    <script src="/sites/www/files/js/js_bCe8GxljhVy25vOB0-bnnfn8dTL_YP6LYNvqmivWX7o.js"></script>
+
+    <meta name="google-site-verification" content="1_s4ExEGDNEtLrEzJpGkrZY2UTuco0AF70veASqfP_w" />    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-88VLXGF772"></script>
+   <script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'G-88VLXGF772');
+   </script>  
+
+
+
+</head>
+  <body class="path-node page-node-type-page   d-flex flex-column h-100">
+
+        <div class="visually-hidden-focusable skip-link p-3 container">
+      <a href="#main-content" class="p-2">
+        Skip to main content
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+
+<header role="banner">
+    <div class="region region-header">
+    <div id="block-menuscrolltdtu" class="block block-block-content block-block-content09d981a8-d0d5-483f-8de8-ea19c05cda69">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="menu-scroll">
+<div id="navbar-tdtu">
+<div class="container w1400">
+<div class="scroll-tdtu"><a href="/">Đại học Tôn Đức Thắng</a></div>
+
+<div class="scroll-tdtu-1">
+<div class="full-page-search scroll-search">
+<div class="search-icon-1 language-1"><a href="/en"><img src="/sites/www/files/TheX/inline-images/flag-en.png" /></a></div>
+
+<div class="search-icon-1"><a href="/tim-kiem"><img alt="search" class="scroll-img" src="/themes/thex/images/icons/search.png" /></a></div>
+</div>
+</div>
+
+<div class="scroll-tdtu-1"><a href="/nhip-song-tdtu">Nhịp sống TDTU</a></div>
+
+<div class="scroll-tdtu-1"><a href="/quoc-te-hoa">Quốc tế hóa</a></div>
+
+<div class="scroll-tdtu-1"><a href="/nghien-cuu">Nghiên cứu</a></div>
+
+<div class="scroll-tdtu-1"><a href="/giao-duc">Giáo dục</a></div>
+<div class="scroll-tdtu-1"><a href="https://admission.tdtu.edu.vn/">Tuyển sinh</a></div>
+
+
+
+<div class="scroll-tdtu-1"><a href="/gioi-thieu">Giới thiệu</a></div>
+</div>
+</div>
+<script>
+<!--//--><![CDATA[// ><!--
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("navbar-tdtu").style.top = "0";
+  } else {
+    document.getElementById("navbar-tdtu").style.top = "-50px";
+  }
+}
+
+//--><!]]>
+</script></div>
+</div>
+      
+  </div>
+<div id="block-25topbar" class="block block-block-content block-block-content5f0e2528-9a45-4dae-9852-7a84f2d676d8">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container">
+<div class="w25-topbar">
+<div class="w25-topbar-1">
+<div class="w25-topbar-link"><a href="/gioi-thieu/don-vi">Đơn vị</a></div>
+
+<div class="w25-topbar-link"><a href="/giang-vien-vien-chuc">Giảng viên</a></div>
+<a> </a>
+
+<div class="w25-topbar-link"><a href="/sinh-vien-hoc-vien">Sinh viên</a></div>
+
+<div class="w25-topbar-link"><a href="/tuyen-dung">Tuyển dụng</a></div>
+</div>
+
+<div class="w25-topbar-2"><a href="/en"><img src="/sites/www/files/TheX/inline-images/flag-en.png" /></a></div>
+</div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+
+    <nav class="navbar navbar-expand-lg   bg-light">
+    <div class="container">
+        <div class="region region-nav-branding">
+    <div id="block-bootstrap5-branding" class="block block-system block-system-branding-block">
+  
+    
+  <div class="navbar-brand d-flex align-items-center">
+
+    <a href="/" title="Trang chủ" rel="home" class="site-logo d-block">
+    <img src="/sites/www/files/logo-dh_0.png" alt="Trang chủ" fetchpriority="high" />
+  </a>
+  
+  <div>
+        <a href="/" title="Trang chủ" rel="home" class="site-title">
+      Đại học Tôn Đức Thắng
+    </a>
+    
+      </div>
+</div>
+</div>
+
+  </div>
+
+
+              <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-md-end" id="navbarSupportedContent">
+            <div class="region region-nav-main">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h5>
+  
+
+        
+            <ul data-block="nav_main" class="navbar-nav justify-content-end flex-wrap nav-level-0">
+                    <li class="nav-item">
+          <a href="/gioi-thieu" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link" data-drupal-link-system-path="node/4732">Giới thiệu</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="https://admission.tdtu.edu.vn/" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link">Tuyển sinh</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="/giao-duc" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link" data-drupal-link-system-path="node/397">Giáo dục</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="/nghien-cuu" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link active is-active" data-drupal-link-system-path="node/4861">Nghiên cứu</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="/quoc-te-hoa" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link" data-drupal-link-system-path="node/300">Quốc tế hóa</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="/nhip-song-tdtu" gva_layout="menu-list" gva_layout_columns="3" gva_block="25topbar" gva_block_en="25topbar" gva_block_vi="25topbar" class="nav-link" data-drupal-link-system-path="node/4862">Nhịp sống TDTU</a>
+      </li>
+
+        </ul>
+  
+
+
+
+  </nav>
+
+  </div>
+
+            <div class="region region-nav-additional">
+    <div id="block-searchvi" class="block block-block-content block-block-contentc289deb6-729d-4e97-b91e-e09324a0d13e">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="/tim-kiem"><img src="/themes/thex/images/icons/search.png" /></a></p>
+</div>
+      
+  </div>
+
+  </div>
+
+        </div>
+          </div>
+  </nav>
+  
+</header>
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+
+  <div class="container-fluid m-0 p-0">
+        <div class="row g-0">
+            <div class="order-1 order-lg-2 col-12">
+         <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      
+
+<article data-history-node-id="4861" role="article" about="/nghien-cuu" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+
+  
+      <span property="schema:name" content="Nghiên cứu" class="hidden"></span>
+
+
+  
+  <div class="node__content">
+    
+            <div class="field field--name-field-block field--type-blockbuilder field--label-hidden field__item"><div class="gavias-blockbuilder-content">
+   
+  <div class="gavias-blockbuilder-content"><div class="gbb-row-wrapper">
+    <div class=" gbb-row bg-size-cover"  style="background-image:url('/sites/www/files/Home/layout/science/nghiencuu.gif'); background-repeat:no-repeat; background-position:center top" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12 science-header">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                             <div class="widget gsc-call-to-action  button-center text-light" style="" >
+            <div class="content-inner clearfix" >
+               <div class="content">
+                  <h2 class="title"><span>Nghiên cứu</span></h2>
+                  <div class="desc"></div>
+               </div>
+                           </div>
+         </div>
+                           </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div><div class="gbb-row-wrapper">
+    <div class=" gbb-row bg-size-cover"  style="" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="content-block">
+<div class="content-line"> </div>
+<div class="title-tdtu">Nghiên cứu khoa học tại TDTU</div>
+<div class="content-tdtu">
+<p>Với mục tiêu phát triển thành đại học nghiên cứu đẳng cấp quốc tế, hoạt động khoa học-công nghệ tại TDTU được tổ chức theo thông lệ quốc tế với các hướng như sau:</p>
+<p><strong><em>-Nghiên cứu cơ bản:</em></strong> kết quả nghiên cứu phải là các công trình công bố trên các tạp chí uy tín hàng đầu thế giới được liệt kê trong các cơ sở dữ liệu WoS hoặc Scopus.</p>
+<p><strong><em>-Nghiên cứu công nghệ:</em></strong> kết quả nghiên cứu phải giải quyết thành công những vấn đề thực tiễn, sản phẩm đầu ra là các thiết kế mới, sáng chế, ý tưởng phát minh được Cục Sáng chế và Nhãn hiệu thương mại Hoa Kỳ (USPTO) cấp bằng sáng chế.</p>
+<p><strong><em>-Nghiên cứu ứng dụng:</em> </strong>hoạt động nghiên cứu được gắn kết với doanh nghiệp để chuyển giao các sản phẩm nghiên cứu vào thực tế.</p>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                                <div class="widget gsc-image  "  >
+               <div class="widget-content">
+                   
+                    <img src="https://tdtu.edu.vn/sites/www/files/Home/layout/about-us/science-2.png" alt="" />
+                                 </div>
+            </div>    
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                                      </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-dzu3eozxuh7c{color:#15489f;border-color:#15489f;}            #button-dzu3eozxuh7c:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/to-chuc/vien-nhom-phong-nghien-cuu-phong-nghien-cuu" class="gsc-button  radius-2x  large " id="button-dzu3eozxuh7c" >
+            Viện/Nhóm/Phòng nghiên cứu         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-0dh36ktveel3{color:#15489f;border-color:#15489f;}            #button-0dh36ktveel3:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/to-chuc/nghien-cuu-khoa-hoc-cac-khoa" class="gsc-button  radius-2x  large " id="button-0dh36ktveel3" >
+            Nghiên cứu khoa học các khoa         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-wal7loxcis22{color:#15489f;border-color:#15489f;}            #button-wal7loxcis22:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/to-chuc/nghien-cuu-khoa-hoc-sinh-vien" class="gsc-button  radius-2x  large " id="button-wal7loxcis22" >
+            Nghiên cứu khoa học sinh viên         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                                      </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-d3uxl2399qsr{color:#15489f;border-color:#15489f;}            #button-d3uxl2399qsr:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/to-chuc/hoi-nghi-hoi-thao" class="gsc-button  radius-2x  large " id="button-d3uxl2399qsr" >
+            Hội nghị - Hội thảo         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-0jqwb72w5ciz{color:#15489f;border-color:#15489f;}            #button-0jqwb72w5ciz:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/to-chuc/cac-tien-ich-nghien-cuu" class="gsc-button  radius-2x  large " id="button-0jqwb72w5ciz" >
+            Các tiện ích nghiên cứu         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 button-tdtu long">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-l2ry335qtf4b{color:#15489f;border-color:#15489f;}            #button-l2ry335qtf4b:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/hoi-dong-giao-su-co-so" class="gsc-button  radius-2x  large " id="button-l2ry335qtf4b" >
+            Hội đồng Giáo sư cơ sở         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div><div class="gbb-row-wrapper">
+    <div class="tuyen-sinh-tdtu gbb-row bg-size-cover"  style="background-image:url('/sites/www/files/Home/layout/science/nc.JPG'); background-repeat:no-repeat; background-position:center top" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-8 col-md-8 col-sm-12 col-xs-12 title-white">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                             <div class="widget gsc-heading  align-left style-default text-light " >
+             
+                        <h2 class="title"><span>Nguồn lực nghiên cứu</span></h2>            <div class="heading-line"></div>
+            <div class="title-desc"><div class="td-title">Tại TDTU, nguồn lực nghi&ecirc;n cứu được khai th&aacute;c một c&aacute;ch hiệu quả nhất để&nbsp;đ&aacute;p ứng nhu cầu c&aacute;c b&ecirc;n li&ecirc;n quan, ph&aacute;t triển c&aacute;c lĩnh vực nghi&ecirc;n cứu chuy&ecirc;n s&acirc;u đặc th&ugrave;, đ&oacute;ng g&oacute;p hiệu quả cho sự ph&aacute;t triển của địa phương, quốc gia v&agrave; quốc tế.</div></div>         </div>
+         <div class="clearfix"></div>
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    
+         <style rel="stylesheet">
+            #button-b9m2yip5fjcc{background:#c5050c;color:white;border-color:#c5050c;}            #button-b9m2yip5fjcc:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/nguon-luc/quy-phat-trien-khoa-hoc-cong-nghe" class="gsc-button  radius-2x  large " id="button-b9m2yip5fjcc" >
+            Quỹ phát triển Khoa học - Công nghệ         </a> 
+
+         
+         <style rel="stylesheet">
+            #button-eccbwyutaf1l{background:#c5050c;color:white;border-color:#c5050c;}            #button-eccbwyutaf1l:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/nguon-luc/dich-vu-khoa-hoc-cong-nghe" class="gsc-button  radius-2x  large " id="button-eccbwyutaf1l" >
+            Dịch vụ Khoa học công nghệ         </a> 
+
+         
+         <style rel="stylesheet">
+            #button-128ydqypbtud{background:#c5050c;color:white;border-color:#c5050c;}            #button-128ydqypbtud:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/nguon-luc/hop-tac-quoc-te" class="gsc-button  radius-2x  large " id="button-128ydqypbtud" >
+            Hợp tác quốc tế         </a> 
+
+         
+         <style rel="stylesheet">
+            #button-qeif7ggoygpw{background:#c5050c;color:white;border-color:#c5050c;}            #button-qeif7ggoygpw:hover{background:#15489f;color:white;border-color:#15489f;}         </style>
+
+         <div class="clearfix"></div>
+         <a href="/nghien-cuu/nguon-luc/chuc-tai-tro-nghien-cuu" class="gsc-button  radius-2x  large " id="button-qeif7ggoygpw" >
+            Tổ chức tài trợ nghiên cứu         </a> 
+
+                           </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div><div class="gbb-row-wrapper">
+    <div class="ranking-tdtu gbb-row bg-size-cover"  style="background-color:#dfdee1" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                             <div class="widget gsc-heading  align-center style-default text-dark " >
+             
+                        <h2 class="title"><span>Sản phẩm nghiên cứu</span></h2>            <div class="heading-line"></div>
+                     </div>
+         <div class="clearfix"></div>
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="widget milestone-block  position-icon-top text-dark">
+<div class="milestone-right">
+<div class="milestone-number">#15</div>
+<div class="milestone-text"><a href="../../../../nghien-cuu/bang-sang-che">Bằng sáng chế</a></div>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="widget milestone-block  position-icon-top text-dark">
+<div class="milestone-right">
+<div class="milestone-number">#11000+</div>
+<div class="milestone-text"><a href="#">Công bố quốc tế</a></div>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="widget milestone-block  position-icon-top text-dark">
+<div class="milestone-right">
+<div class="milestone-number">#02</div>
+<div class="milestone-text"><a href="../../../../nghien-cuu/tap-chi-khoa-hoc">Tạp chí khoa học</a></div>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div><div class="gbb-row-wrapper">
+    <div class=" gbb-row bg-size-cover"  style="" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                             <div class="widget gsc-heading  align-center style-default text-dark " >
+             
+                        <h2 class="title"><span>Hoạt động khoa học - công nghệ</span></h2>            <div class="heading-line"></div>
+                     </div>
+         <div class="clearfix"></div>
+                           </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div><div class="widget block gsc-block-view  gsc-block-drupal block-view title-align-left  text-dark remove-margin-off" ><div class="container">
+
+<div class="views-element-container"><div class="container view view-tdtupage view-id-tdtupage view-display-id-block_4 js-view-dom-id-ea2e79006cabb26063920647211234792161a4524d3455bcc3df8d6ecf25666b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-view-grid horizontal cols-3 clearfix">
+            <div class="row-qth views-row clearfix row-1">
+                  <div class="views-col col-1" style="width: 33.333333333333%;"><div class="views-field views-field-nothing"><span class="field-content"><div class="post-block hover01">
+      <div class="post-image ">
+           <div>   <img loading="lazy" src="/sites/www/files/articles/2025/Jan/Dien_dan_nganh_ban_dan/11.JPG" width="1000" height="667" alt="4rumsemi" typeof="Image" class="img-fluid" />
+
+ </div>
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/tin-tuc/2025-01/truong-dai-hoc-ton-duc-thang-tien-phong-thuc-hien-chien-luoc-phat-trien-nganh-cong" hreflang="vi">Trường Đại học Tôn Đức Thắng tiên phong thực hiện chiến lược phát triển ngành công nghiệp bán dẫn</a> </div> 
+            <div class="post-meta">
+                   <span class="post-categories"><a href="/tin-tuc/khoa-hoc-cong-nghe">Khoa học - công nghệ</a></span>&nbsp;|&nbsp;<span class="post-created">16/01/25 </span>
+	     </div>
+             <div class="post-sum"> Diễn đàn đã mang đến nhiều thông tin hữu ích, cập nhật sự phát triển của ngành công nghiệp bán dẫn toàn cầu, các xu hướng mới trong thiết kế và sản xuất chip, cũng như tác động của bán dẫn đối với các lĩnh vực khác như trí tuệ nhân tạo, Internet vạn vật (IoT), và tự động hóa. Diễn đàn cũng thảo luận các giải pháp đào tạo, phát triển nguồn nhân lực chất lượng cao cho ngành công nghiệp bán dẫn, đặc biệt là ở Việt Nam. </div> 
+       </div>
+</div></span></div></div>
+                  <div class="views-col col-2" style="width: 33.333333333333%;"><div class="views-field views-field-nothing"><span class="field-content"><div class="post-block hover01">
+      <div class="post-image ">
+           <div>   <img loading="lazy" src="/sites/www/files/articles/2024/Dec/Khai_truong_VP_IAST/cover.jpg" width="670" height="446" alt="" typeof="Image" class="img-fluid" />
+
+ </div>
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/tin-tuc/2024-12/truong-dai-hoc-ton-duc-thang-khai-truong-van-phong-vien-cong-nghe-tien-tien-tai-ha" hreflang="vi">Trường Đại học Tôn Đức Thắng khai trương Văn phòng Viện Công nghệ tiên tiến tại Hà Nội</a> </div> 
+            <div class="post-meta">
+                   <span class="post-categories"><a href="/tin-tuc/khoa-hoc-cong-nghe">Khoa học - công nghệ</a></span>&nbsp;|&nbsp;<span class="post-created">05/12/24 </span>
+	     </div>
+             <div class="post-sum"> Ngày 04/12/2024, Trường Đại học Tôn Đức Thắng đã tổ chức lễ khai trương Văn phòng Viện Công nghệ Tiên tiến tại Hà Nội (Tòa nhà Viện Khoa học An toàn và Vệ sinh lao động, 95 Trần Quốc Toản, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, TP. Hà Nội). </div> 
+       </div>
+</div></span></div></div>
+                  <div class="views-col col-3" style="width: 33.333333333333%;"><div class="views-field views-field-nothing"><span class="field-content"><div class="post-block hover01">
+      <div class="post-image ">
+           <div>   <img loading="lazy" src="/sites/www/files/articles/2024/Nov/Xep-hang-lien-nganh/ISR2025-2.png" width="1000" height="666" alt="" typeof="Image" class="img-fluid" />
+
+ </div>
+      </div>
+      <div class="post-content">
+            <div class="post-title"> <a href="/tin-tuc/2024-11/truong-dai-hoc-ton-duc-thang-xep-so-1-viet-nam-ve-nghien-cuu-khoa-hoc-lien-nganh" hreflang="vi">Trường Đại học Tôn Đức Thắng xếp số 1 Việt Nam về nghiên cứu khoa học liên ngành</a> </div> 
+            <div class="post-meta">
+                   <span class="post-categories"><a href="/tin-tuc/khoa-hoc-cong-nghe">Khoa học - công nghệ</a></span>&nbsp;|&nbsp;<span class="post-created">27/11/24 </span>
+	     </div>
+             <div class="post-sum"> Theo bảng xếp hạng này, Trường Đại học Tôn Đức Thắng được xếp thứ 95 trên tổng số 749 cơ sở giáo dục đại học được xếp hạng và 274 cơ sở giáo dục khác có tham gia nhưng chưa được xếp hạng, đứng số 1 Việt Nam. </div> 
+       </div>
+</div></span></div></div>
+              </div>
+      </div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div></div>  
+ </div> 
+</div>
+      
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+      </div>
+          </div>
+  </div>
+  
+  
+  <div class="container content-deital-page">
+
+</div>
+
+</main>
+
+
+
+
+
+
+<footer role="contentinfo" class="mt-auto     ">
+  <div class="container-fluid m-0 p-0">
+      <div class="region region-footer">
+    <div id="block-gaviasblockbuiderfooter" class="block block-gavias-blockbuilder block-gavias-blockbuilder-blockgavias-blockbuilder-block____3">
+  
+    
+      <div class="gavias-blockbuilder-content">
+   
+  <div class="gbb-row-wrapper">
+    <div class="footer-tdtu gbb-row bg-size-cover"  style="background-image:url('/sites/www/files/Home/layout/bn-footer.png'); background-repeat:no-repeat; background-position:center top" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="footer-logo">
+<div class="footer-logo-1"><img style="width: 56px;" src="../../../../sites/www/files/logo_2.png" /></div>
+<div class="footer-logo-2">
+<h2>Trường Đại học Tôn Đức Thắng</h2>
+<p>Số 19 Nguyễn Hữu Thọ, phường Tân Phong, Quận 7, TP. Hồ Chí Minh, Việt Nam</p>
+</div>
+</div></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-4 col-md-4 col-sm-12 col-xs-12 social-tdtu">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                                      </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                                      </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="footer-title">Phổ biến</div>
+<p><a href="../../../../giao-duc/danh-muc-nganh-hoc">Danh mục ngành</a></p>
+<p><a href="../../../../giao-duc/huong-dan-hoc-vu">Hướng dẫn học vụ</a></p>
+<p><a href="../../../../nghien-cuu/bang-sang-che">Bằng sáng chế</a></p>
+<p><a href="../../../../nghien-cuu/tap-chi-khoa-hoc">Tạp chí khoa học</a></p>
+<p><a href="../../../../quoc-te-hoa/hop-tac-quoc-te">Hợp tác quốc tế</a></p></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="footer-title">Tổ chức</div>
+<p><a href="../../../../gioi-thieu/khoi-chuyen-mon">Khối chuyên môn</a></p>
+<p><a href="../../../../gioi-thieu/khoi-quan-ly-hanh-chinh">Khối hành chính</a></p>
+<p><a href="../../../../gioi-thieu/khoi-khoa-hoc-cong-nghe-hop-tac-quoc-te">Khối Khoa học - Công nghệ</a></p>
+<p><a href="https://khanhhoa.tdtu.edu.vn/" target="_blank">Phân hiệu Khánh Hòa</a></p>
+<p><a href="https://vfis.tdtu.edu.vn/vi" target="_blank">Trường Quốc tế Việt Nam - Phần Lan</a></p></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="footer-title">Truy cập nhanh</div>
+<p><a href="../../../../lien-he">Liên hệ</a></p>
+<p><a href="https://tracuuvanbang.tdtu.edu.vn/" target="_blank">Tra cứu văn bằng</a></p>
+<p><a href="../../../../cong-khai-thong-tin/2024">Công khai thông tin</a></p>
+<p><a href="../../../../tuyen-dung">Tuyển dụng</a></p>
+<p><a href="https://360.tdtu.edu.vn/main/" target="_blank">Trải nghiệm</a></p></div>                  </div>  
+                                  </div>
+              </div>
+                          <div  class="gsc-column col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-right">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><div class="icon-social"><a href="https://www.facebook.com/tonducthanguniversity/" target="_blank"><img src="../../../../sites/www/files/Home/layout/icon/facebook.png" /></a> <a href="https://www.youtube.com/TDTUChannel" target="_blank"><img src="../../../../sites/www/files/Home/layout/icon/youtube.png" /></a> <a href="https://www.tiktok.com/@tdtuchannel" target="_blank"><img src="../../../../sites/www/files/Home/layout/icon/tiktok.png" /></a> <a href="https://www.linkedin.com/school/ton-duc-thang-university" target="_blank"><img src="../../../../sites/www/files/Home/layout/icon/social-in.png" /></a> <a href="https://zalo.me/1033215086931577865" target="_blank"><img src="../../../../sites/www/files/Home/layout/icon/zalo.png" /></a></div></div>            <div class="widget gsc-image text-right tinnhiem"  >
+               <div class="widget-content">
+                                       <a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/tdtueduvn-1632889651" target="_blank">
+                   
+                    <img src="https://tdtu.edu.vn/sites/www/files/Home/layout/handle_cert.png" alt="" />
+                  </a>               </div>
+            </div>    
+                           </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div><div class="gbb-row-wrapper">
+    <div class="coppyright gbb-row bg-size-cover"  style="" >
+    <div class="bb-inner default">  
+      <div class="bb-container container">
+        <div class="row">
+          <div class="row-wrapper clearfix">
+                          <div  class="gsc-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="column-inner  bg-size-cover " >
+                  <div class="column-content-inner">
+                    <div class="column-content  " ><p>Copyright © 2025 Trường Đại học Tôn Đức Thắng</p></div>                  </div>  
+                                  </div>
+              </div>
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+  </div>  
+</div>  
+ </div> 
+
+  </div>
+
+  </div>
+
+  </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/4861","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"vi"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-150069677-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":0,"animateAccordionOpenAndClose":0,"openTabsWithHash":0}},"statistics":{"data":{"nid":"4861"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"25f6316bdeef246727e43ab18c3640d58f19b7085b1cf62edc843aa16193aa2d"}}</script>
+<script src="/sites/www/files/js/js_mXEfgTAgPjfWN-RgjUCjpCxMtzvC18g-7kHGehmc2Ds.js"></script>
+<script src="/modules/ckeditor_accordion/js/accordion.frontend.min.js?sr93wz"></script>
+<script src="/sites/www/files/js/js_oZH9vbmBgDk-K-rcJROyVqHEtMmJlCj-7FoXue_kHYA.js"></script>
+
+  </body>
+</html>
