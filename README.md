@@ -30,7 +30,7 @@ The **Practical Java Technology** project provides knowledge and hands-on exerci
 | **3**  | Hibernate ORM - Object-Relational Mapping |
 | **4**  | Servlet & JSP - Web Development Basics |
 | **5**  | Servlet & JSP - Web Development |
-
+| **6**  | Spring Core Fundamentals with XML and Annotation-based Configuration |
 
 ---
 

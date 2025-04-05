@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4f69b20-cc3a-4c99-8d43-14ef179e7ba3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/src/main/java/org/example/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Ex4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Ex4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/Lab5.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/Lab5.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/Lab5/WEB-INF/classes/org/example/DAO/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/Lab5/WEB-INF/classes/org/example/DAO/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/Lab5/WEB-INF/classes/org/example/DAO/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/Lab5/WEB-INF/classes/org/example/DAO/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/Lab5/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/Lab5/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/Lab5/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/Lab5/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/DAO/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/DAO/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/DAO/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/DAO/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/servlets/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/servlets/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/servlets/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/target/classes/org/example/servlets/RegisterServlet.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nsJBAzIIWYf2QB2yIpPWEcNxd4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pc/Desktop/midTerm/HA-Midterm-java/backend/spring.ecom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4f69b20-cc3a-4c99-8d43-14ef179e7ba3" name="Changes" comment="" />
+      <created>1729755713971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729755713971</updated>
+      <workItem from="1729755715023" duration="201000" />
+      <workItem from="1729755975584" duration="303000" />
+      <workItem from="1729756352097" duration="564000" />
+      <workItem from="1729756939881" duration="238000" />
+      <workItem from="1729867405555" duration="22000" />
+      <workItem from="1730171984817" duration="454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
