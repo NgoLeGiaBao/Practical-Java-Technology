@@ -32,6 +32,7 @@ The **Practical Java Technology** project provides knowledge and hands-on exerci
 | **5**  | Servlet & JSP - Web Development |
 | **6**  | Spring Core Fundamentals with XML and Annotation-based Configuration |
 | **7**  | CRUD and Querying with Spring Data JPA |
+| **8**  | Spring Boot MVC & Employee Management App |
 
 
 ---
